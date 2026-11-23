@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D00FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF+" alt="Typing SVG">
   </a>
 </div>
 
@@ -80,7 +80,22 @@ Membro da empresa ForceTech Jr.
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
 />
-
+<img
+  align="left"
+  alt="Kotlin"
+  title="Kotlin"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+  />
+<img
+  align="left"
+  alt="Csharp"
+  title="Csharp"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+  />
 
 <br/>
 <br/>
@@ -91,12 +106,12 @@ Membro da empresa ForceTech Jr.
   <img
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats-nu-rust-68.vercel.app/api?username=dukurten&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&theme=merko&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats-nu-rust-68.vercel.app/api?username=dukurten&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&theme=midnight-purple&custom_title=My%20GitHub%20Statistics"
   />
   <img
     alt="Top Languages"
     height="200"
-    src="https://github-readme-stats-nu-rust-68.vercel.app/api/top-langs/?username=dukurten&layout=compact&custom_title=Stack&langs_count=8&theme=merko"
+    src="https://github-readme-stats-nu-rust-68.vercel.app/api/top-langs/?username=dukurten&layout=compact&custom_title=Stack&langs_count=8&theme=midnight-purple"
   />
 </p>
 

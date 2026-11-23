@@ -7,6 +7,7 @@
 #
 
 Me chamo Eduardo Kurten, tenho 19 anos, sou do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPR.
+Membro da empresa ForceTech Jr.
  
 #
 

@@ -11,7 +11,7 @@ Membro da empresa ForceTech Jr.
  
 #
 
-<img align="right" alt="Glitch hacker" height="190px" src="https://media.giphy.com/media/YAFHiM4HdYyM8dojg4/giphy.gif">
+<img align="right" alt="Glitch hacker" height="190px" src="https://media.giphy.com/media/X3mDRFnNZiYfe/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
